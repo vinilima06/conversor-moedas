@@ -1,0 +1,6 @@
+/* Define o estilo para o contêiner principal */
+.converter {
+    display: flex; /* Utiliza o layout flexbox */
+    align-items: center; 
+    
+}
